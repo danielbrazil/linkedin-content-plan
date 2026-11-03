@@ -8,8 +8,13 @@ C# and .NET, ASP.NET Core, JavaScript and TypeScript, React, Angular, SQL Server
 
 ## Content
 
-- [Eight-week calendar and 200 interview questions](./LinkedIn_Content_Plan_Nov_Dec_2026.md)
-- [Series introduction - October 30, 2026](./2026-10-30_Introducing_The_Series.md) (draft)
+- [Eight-week calendar and 200 interview questions](./LinkedIn_Content_Plan.md)
+- [Series introduction - October 30, 2026](./Beyond_The_Interview_Answer_Series_Introduction.md) (draft)
+- [C# and .NET: beyond the definitions - November 3, 2026](./CSharp_DotNet_Beyond_The_Definitions.md) (companion article draft, with code)
+  - [Part 1/4 - How .NET runs your code](./CSharp_DotNet_Part_1_of_4_How_DotNet_Runs_Your_Code.md) (draft; questions 001-003)
+  - [Part 2/4 - Types, copying, and equality](./CSharp_DotNet_Part_2_of_4_Types_Copying_And_Equality.md) (draft; questions 004-008)
+  - [Part 3/4 - Generics, delegates, and events](./CSharp_DotNet_Part_3_of_4_Generics_Delegates_And_Events.md) (draft; questions 009-010)
+  - [Part 4/4 - Garbage collection and resources](./CSharp_DotNet_Part_4_of_4_Garbage_Collection_And_Resources.md) (draft; questions 011-013)
 
 The calendar runs from November 2 through December 27, 2026:
 
@@ -20,8 +25,10 @@ The questions are a curated selection, not a statistically ranked list. Research
 
 ## Editorial workflow
 
-Each post has its own Markdown file, named `YYYY-MM-DD_Descriptive_Title.md`.
+Each post has its own Markdown file, named `Main_Topic_Part_N_of_Total_Descriptive_Title.md` for a multi-part series or `Main_Topic_Descriptive_Title.md` for standalone content. Companion articles use the main topic and article title. Filenames contain no dates; publication dates stay inside the documents.
 
 Drafts are reviewed before the author manually publishes them on LinkedIn. A file being available in this public repository does not mean the post has been approved or published on LinkedIn. There is no automatic publishing.
 
 Future articles and example code will be added as the series develops.
+
+The November 3 roundup is split into four numbered posts on the same day. Together they answer all 13 planned questions directly on LinkedIn; the companion article adds detail rather than replacing those answers. Each post links to the companion article in this repository. The earlier standalone value-types draft is superseded.

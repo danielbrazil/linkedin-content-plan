@@ -1,11 +1,5 @@
 # Beyond the interview answer: a full-stack learning series
 
-Date: October 30, 2026
-Status: Draft - awaiting review; not published
-Type: Series introduction
-
-## LinkedIn post
-
 Knowing the definition is one thing. Explaining when to use it, why it matters, and what can go wrong is another.
 
 That is the idea behind a learning series I am starting here on LinkedIn.

@@ -11,6 +11,8 @@
 - Thursday format: a concept-led article or carousel, with examples to be developed later.
 - This document contains topics and questions only: no answers, code, or finished posts.
 
+Editorial update for November 3: its single roundup outline is now delivered as four numbered LinkedIn posts on the same day, plus a detailed GitHub article. All questions 001-013 are answered across the LinkedIn parts. This adds three posts to the original 16-post baseline; the other calendar entries are unchanged. See the [companion article and links to all four posts](./CSharp_DotNet_Beyond_The_Definitions.md). Availability on GitHub does not imply publication on LinkedIn.
+
 ### Research and selection
 
 This is a curated 200-question selection, not a statistically verified "top 200" ranking. Public interview collections do not provide comparable employer-wide question-frequency data. Questions are independently worded and selected for stack relevance, foundational importance, and senior-level trade-offs.
