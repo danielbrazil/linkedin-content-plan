@@ -66,6 +66,8 @@ Research basis: [S1], [S8].
 
 **Format:** Concept explanation with examples to be developed later.
 
+Editorial update: this topic is prepared as four concept-led LinkedIn posts covering questions 014-025, with a [companion article and runnable example](./CSharp_DotNet_Resource_Safe_Components.md). All four are scheduled for November 5; availability on GitHub does not imply publication on LinkedIn. Together with the November 3 split, the calendar now has 22 individual posts across its original 16 topic slots; other entries remain unchanged.
+
 **Planned example context:** A file-import component with replaceable dependencies and explicit resource ownership.
 
 014. When should a design use an interface rather than an abstract base class?
