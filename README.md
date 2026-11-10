@@ -23,6 +23,13 @@ C# and .NET, ASP.NET Core, JavaScript and TypeScript, React, Angular, SQL Server
   - [Part 4/4 - Errors and testing](./CSharp_DotNet_Resource_Safe_Components_Part_4_of_4_Errors_And_Testing.md) (questions 023-025)
   - [Executable file-import example and checks](./examples/ResourceSafeImporter/Program.cs)
 
+- [Async .NET: concurrency without confusion - November 10, 2026](./CSharp_DotNet_Async_Concurrency.md) (with runnable checks)
+  - [Part 1/4 - Execution and workloads](./CSharp_DotNet_Async_Concurrency_Part_1_of_4_Execution_And_Workloads.md) (questions 026-028)
+  - [Part 2/4 - Blocking, context, and coordination](./CSharp_DotNet_Async_Concurrency_Part_2_of_4_Blocking_Context_And_Coordination.md) (questions 029-031)
+  - [Part 3/4 - Cancellation and return types](./CSharp_DotNet_Async_Concurrency_Part_3_of_4_Cancellation_And_Return_Types.md) (questions 032-034)
+  - [Part 4/4 - Shared state and limits](./CSharp_DotNet_Async_Concurrency_Part_4_of_4_Shared_State_And_Limits.md) (questions 035-038)
+  - [Executable async examples and checks](./examples/AsyncConcurrency/Program.cs)
+
 The calendar runs from November 2 through December 27, 2026:
 
 - **Tuesday:** related interview questions, reasoning, and trade-offs.
@@ -38,6 +45,6 @@ Drafts are reviewed before the author manually publishes them on LinkedIn. A fil
 
 Future articles and example code will be added as the series develops.
 
-The November 5 concept topic is also split into four posts, each linking to the companion article in this repository. Matching `_LinkedIn.txt` files provide copy-ready versions with Unicode bold titles and questions. No LinkedIn publishing is automated.
+The November 5 concept topic is also split into four posts, each linking to the companion article in this repository. Local `_LinkedIn.txt` exports provide copy-ready versions with Unicode bold titles and questions. All files ending in `LinkedIn.txt` (case-insensitive) are excluded from Git and must stay local. No LinkedIn publishing is automated.
 
 The November 3 roundup is split into four numbered posts on the same day. Together they answer all 13 planned questions directly on LinkedIn; the companion article adds detail rather than replacing those answers. Each post links to the companion article in this repository. The earlier standalone value-types draft is superseded.

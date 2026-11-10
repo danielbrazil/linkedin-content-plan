@@ -93,6 +93,8 @@ Research basis: [S1], [S16].
 
 **Format:** Interview-question roundup.
 
+Editorial update: prepared as four numbered posts for November 10, covering questions 026-038, with a [detailed article and executable checks](./CSharp_DotNet_Async_Concurrency.md). This split adds three posts, bringing the calendar to 25 individual posts across its original 16 topic slots.
+
 026. What do async and await change about a method's execution?
 027. How do Task, Thread, the thread pool, and Task.Run differ?
 028. How should CPU-bound work and I/O-bound work be handled differently?
