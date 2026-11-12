@@ -113,7 +113,9 @@ Editorial update: prepared as four numbered posts for November 10, covering ques
 
 **Title:** From LINQ to an asynchronous data pipeline
 
-**Format:** Concept explanation with examples to be developed later.
+**Format:** Concept explanation with examples.
+
+Editorial update: prepared as four numbered posts covering questions 039-050, with a [detailed article and executable pipeline checks](./CSharp_DotNet_Linq_Data_Pipeline.md). This split adds three posts, bringing the calendar to 28 individual posts across its original 16 topic slots.
 
 **Planned example context:** A paginated data feed that filters records and enriches them through bounded asynchronous calls.
 

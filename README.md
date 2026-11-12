@@ -30,6 +30,13 @@ C# and .NET, ASP.NET Core, JavaScript and TypeScript, React, Angular, SQL Server
   - [Part 4/4 - Shared state and limits](./CSharp_DotNet_Async_Concurrency_Part_4_of_4_Shared_State_And_Limits.md) (questions 035-038)
   - [Executable async examples and checks](./examples/AsyncConcurrency/Program.cs)
 
+- [From LINQ to an asynchronous data pipeline - November 12, 2026](./CSharp_DotNet_Linq_Data_Pipeline.md) (with runnable checks)
+  - [Part 1/4 - Sequences and execution](./CSharp_DotNet_Linq_Data_Pipeline_Part_1_of_4_Sequences_And_Execution.md) (questions 039-041)
+  - [Part 2/4 - Choosing operators](./CSharp_DotNet_Linq_Data_Pipeline_Part_2_of_4_Choosing_Operators.md) (questions 042-044)
+  - [Part 3/4 - Memory, streaming, and cancellation](./CSharp_DotNet_Linq_Data_Pipeline_Part_3_of_4_Memory_Streaming_And_Cancellation.md) (questions 045-047)
+  - [Part 4/4 - Channels, backpressure, and measurement](./CSharp_DotNet_Linq_Data_Pipeline_Part_4_of_4_Channels_Backpressure_And_Measurement.md) (questions 048-050)
+  - [Executable pipeline examples and checks](./examples/LinqDataPipeline/Program.cs)
+
 The calendar runs from November 2 through December 27, 2026:
 
 - **Tuesday:** related interview questions, reasoning, and trade-offs.
