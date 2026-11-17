@@ -37,6 +37,13 @@ C# and .NET, ASP.NET Core, JavaScript and TypeScript, React, Angular, SQL Server
   - [Part 4/4 - Channels, backpressure, and measurement](./CSharp_DotNet_Linq_Data_Pipeline_Part_4_of_4_Channels_Backpressure_And_Measurement.md) (questions 048-050)
   - [Executable pipeline examples and checks](./examples/LinqDataPipeline/Program.cs)
 
+- [ASP.NET Core: from request to response - November 17, 2026](./AspNet_Core_Request_Response.md) (with runnable HTTP checks)
+  - [Part 1/4 - Servers and middleware](./AspNet_Core_Request_Response_Part_1_of_4_Servers_And_Middleware.md) (questions 051-053)
+  - [Part 2/4 - Services and settings](./AspNet_Core_Request_Response_Part_2_of_4_Services_And_Settings.md) (questions 054-057)
+  - [Part 3/4 - Endpoints, input, and access](./AspNet_Core_Request_Response_Part_3_of_4_Endpoints_Input_And_Access.md) (questions 058-060)
+  - [Part 4/4 - Tokens, browsers, and workers](./AspNet_Core_Request_Response_Part_4_of_4_Tokens_Browsers_And_Workers.md) (questions 061-063)
+  - [Executable request pipeline and checks](./examples/AspNetRequestPipeline/PipelineChecks.cs)
+
 The calendar runs from November 2 through December 27, 2026:
 
 - **Tuesday:** related interview questions, reasoning, and trade-offs.

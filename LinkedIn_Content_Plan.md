@@ -142,6 +142,8 @@ Research basis: [S2], [S9].
 
 **Format:** Interview-question roundup.
 
+Editorial update: prepared as four numbered posts covering questions 051-063, with a [detailed article and runnable HTTP checks](./AspNet_Core_Request_Response.md). This split adds three posts, bringing the calendar to 31 individual posts across its original 16 topic slots.
+
 051. What roles do Kestrel and a reverse proxy play in hosting ASP.NET Core?
 052. How does middleware ordering affect the request pipeline?
 053. When should cross-cutting behavior use middleware, an MVC filter, or an endpoint filter?
