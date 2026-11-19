@@ -44,6 +44,13 @@ C# and .NET, ASP.NET Core, JavaScript and TypeScript, React, Angular, SQL Server
   - [Part 4/4 - Tokens, browsers, and workers](./AspNet_Core_Request_Response_Part_4_of_4_Tokens_Browsers_And_Workers.md) (questions 061-063)
   - [Executable request pipeline and checks](./examples/AspNetRequestPipeline/PipelineChecks.cs)
 
+- [Designing a production-ready REST endpoint - November 19, 2026](./AspNet_Core_Rest_Endpoint.md) (with runnable integration checks)
+  - [Part 1/4 - Requests, retries, and errors](./AspNet_Core_Rest_Endpoint_Part_1_of_4_Requests_Retries_And_Errors.md) (questions 064-066)
+  - [Part 2/4 - Contracts, versions, and pages](./AspNet_Core_Rest_Endpoint_Part_2_of_4_Contracts_Versions_And_Pages.md) (questions 067-069)
+  - [Part 3/4 - Caching, limits, and HTTP clients](./AspNet_Core_Rest_Endpoint_Part_3_of_4_Caching_Limits_And_Http_Clients.md) (questions 070-072)
+  - [Part 4/4 - Resilience, cancellation, and tests](./AspNet_Core_Rest_Endpoint_Part_4_of_4_Resilience_Cancellation_And_Tests.md) (questions 073-075)
+  - [Executable order API and checks](./examples/RestOrders.Checks/Program.cs)
+
 The calendar runs from November 2 through December 27, 2026:
 
 - **Tuesday:** related interview questions, reasoning, and trade-offs.

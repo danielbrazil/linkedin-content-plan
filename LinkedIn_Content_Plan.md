@@ -162,7 +162,9 @@ Editorial update: prepared as four numbered posts covering questions 051-063, wi
 
 **Title:** Designing a production-ready REST endpoint
 
-**Format:** Concept explanation with examples to be developed later.
+**Format:** Concept explanation with examples.
+
+Editorial update: prepared as four numbered posts covering questions 064-075, with a [detailed article and runnable order-API checks](./AspNet_Core_Rest_Endpoint.md). This split adds three posts, bringing the calendar to 34 individual posts across its original 16 topic slots.
 
 **Planned example context:** An authenticated order-creation endpoint with validation, safe retries, and integration tests.
 

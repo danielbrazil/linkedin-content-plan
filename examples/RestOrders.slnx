@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RestOrders.Checks/RestOrders.Checks.csproj" />
+  <Project Path="RestOrders/RestOrders.csproj" />
+</Solution>
